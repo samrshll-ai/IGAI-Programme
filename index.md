@@ -4,10 +4,9 @@ This page serves as the public index for documents published by the Interim Gove
 
 ## Published Artefacts
 
-### 1. CPI‑2026‑02‑04‑A — Interim Architecture: Kernel‑Indexed Open‑Web Substrate
-*Status:* Published to iCloud (canonical), pending public web publication.
+### 1. [CPI‑2026‑02‑04‑A — Interim Architecture: Kernel‑Indexed Open‑Web Substrate](CPI-2026-02-04-A.md)
+*Status:* Published to iCloud (canonical) and mirrored to the open web.
 
-A public web version of this CPI will be added here once published.
 
 ---
 
